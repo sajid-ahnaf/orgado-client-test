@@ -79,12 +79,12 @@ const FooterThree = () => {
             <div className="col-12">
               <div className="bd-footer__copyright text-center">
                 <ul>
-                  <li>All Rights Reserved</li>
+                  <li>Ecommerce Website</li>
                   <li>
-                    Copyrighted by ©2023{" "}
+                    FutureTech Tycoons{" "}
                     <span>
-                      <Link href="https://themeforest.net/user/bdevs/portfolio">
-                        BDevs
+                      <Link href="https://codemagician.vercel.app">
+                      FutureTech Tycoons
                       </Link>
                     </span>
                   </li>
