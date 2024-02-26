@@ -145,12 +145,12 @@ const FooterOne = () => {
             <div className="col-xl-6 col-lg-6">
               <div className="bd-footer__copyright">
                 <ul>
-                  <li>All Rights Reserved</li>
+                  <li></li>
                   <li>
-                    Copyrighted by ©2023{" "}
+                    Ecommerce Website{" "}
                     <span>
-                      <Link href="https://themeforest.net/user/bdevs/portfolio">
-                        BDevs{" "}
+                      <Link href="https://codemagician.vercel.app">
+                        FutureTech Tycoons{" "}
                       </Link>{" "}
                     </span>
                   </li>
